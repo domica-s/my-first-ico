@@ -1,5 +1,5 @@
 ﻿# my-first-ico
-This is a repository of me learning the basics of Web 3 via LearnWeb3DAO, and this is the fifth part, where I created my first ICO (ERC-20), along with the token's website, built using React and Next js
+This is a repository of me learning the basics of Web 3 via LearnWeb3DAO, and this is the sixth part, where I created my first ICO (ERC-20), along with the token's website, built using React and Next js
 
 This project utilises the smart contract from my previous project: https://github.com/domica-s/my-first-whitelist-enabled-nft/
 
