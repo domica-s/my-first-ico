@@ -5,4 +5,4 @@ This project utilises the smart contract from my previous project: https://githu
 
 View the contract on: https://rinkeby.etherscan.io/address/0x8ef94f6e9257715Ad93eEAaFBD6744d002E5bE56
 
-Live demo site: https://my-first-whitelist-enabled-nft-6n8o9zb34-domica-s.vercel.app/
+Live demo site: https://my-first-ico.vercel.app/
